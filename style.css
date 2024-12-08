@@ -160,4 +160,7 @@ em {
     .nav-again a {
         font-size: 0.9rem;
     }
+    .contentOfcontent > p {
+        padding: 1rem;
+    }
 }
